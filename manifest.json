@@ -1,8 +1,22 @@
 {
   "manifest_version": 2,
   "name": "Corona Cyrus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Replace all mentions of coronavirus with Miley Cyrus",
+  "page_action": {
+    "default_icon": {
+      "16": "images/icon_16x16.png",
+      "32": "images/icon_32x32.png",
+      "48": "images/icon_48x48.png",
+      "128": "images/icon_128x128.png"
+    }
+  },
+  "icons": {
+    "16": "images/icon_16x16.png",
+    "32": "images/icon_32x32.png",
+    "48": "images/icon_48x48.png",
+    "128": "images/icon_128x128.png"
+  },
   "content_scripts": [
     {
       "matches": [
