@@ -1,7 +1,7 @@
 # CoronaCyrus
 Browser extension to replace all mentions of coronavírus with Miley Cyrus. Time to eradicate it from the web.
 
-## Download
+# Download
 - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/corona-cyrus/)
 - [Chrome extension](https://chrome.google.com/webstore/detail/corona-cyrus/eaakmicgbdjkljplchnjbnjmfiealahb)
 
